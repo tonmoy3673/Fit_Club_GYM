@@ -1,0 +1,27 @@
+.logo{
+    width: 100px;
+    cursor: pointer;
+}
+.brand{
+    font-size: 35px;
+    cursor: pointer;
+
+}
+.brand::after{
+    content: '';
+    display: block;
+    margin: auto;
+    background-color: #FFC312;
+
+    height: 4px;
+    width: 0%;
+    transition: 0.6s;
+}
+
+.brand:hover:after{
+    width: 100%;
+}
+
+span{
+    color:#F79F1F;
+}

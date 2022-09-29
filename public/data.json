@@ -1,0 +1,74 @@
+[
+    {
+        "id": "63348ac212e3dc4311b213d5",
+        "picture":"https://images.pexels.com/photos/863926/pexels-photo-863926.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Warm-up",
+        "about": "Help reduce muscle soreness and lessen your risk of injury",
+        "age": 25,
+        "time": 420
+    },
+    {
+        "id": "63348ac20cc9e89a24dc1868",
+        "picture": "https://images.pexels.com/photos/6455772/pexels-photo-6455772.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Battle-Rope",
+        "about": "Building muscular strength, increasing fitness.",
+        "age": 27,
+        "time": 510
+    },
+    {
+        "id": "63348ac2231bcb70f8be39db",
+        "picture": "https://images.pexels.com/photos/3836878/pexels-photo-3836878.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Bicep",
+        "about": "Building stronger arms and increasing your power to lift",
+        "age": 30,
+        "time": 520
+    },
+    {
+        "id": "63348ac2677c0c2c51432699",
+        "picture": "https://images.pexels.com/photos/1480520/pexels-photo-1480520.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Back",
+        "about": "It is a great way to add muscle,chest and upper body.",
+        "age": 22,
+        "time": 403
+    },
+    {
+        "id": "63348ac2aa68d633d8ab6b12",
+        "picture": "https://images.pexels.com/photos/3837757/pexels-photo-3837757.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chest",
+        "about": "Stabilize the shoulder joint and fit your body.",
+        "age": 33,
+        "time": 755
+    },
+    {
+        "id": "63348ac2f5a861f97e8da50c",
+        "picture": "https://images.pexels.com/photos/3763115/pexels-photo-3763115.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Dumbbell",
+        "about": "Weight lifting with it lowers risk of heart attack.",
+        "age": 29,
+        "time": 108
+    },
+    {
+        "id": "63348ac2ba8f9748b521fedf",
+        "picture": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Leg",
+        "about": "Improve overall athletic performance in your daily life.",
+        "age": 20,
+        "time": 476
+    },
+    {
+        "id": "63348ac2d912c049891ce8bc",
+        "picture": "https://images.pexels.com/photos/3837388/pexels-photo-3837388.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Shoulder",
+        "about": "Promote patterns and improve body of muscle function.",
+        "age": 31,
+        "time": 394
+    },
+    {
+        "id": "63348ac2d912c049891ce8bk",
+        "picture": "https://images.pexels.com/photos/371049/pexels-photo-371049.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Squats",
+        "about": "Strengthening legs, including the quadriceps, calves, and hamstrings.",
+        "age": 31,
+        "time": 994
+    }
+]
