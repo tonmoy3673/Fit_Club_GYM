@@ -15,7 +15,7 @@ const Main = ({addToList}) => {
                 <h2 className='h4 my-4'>Select Today's Exercise</h2>
                 
                 <Packages addToList={addToList}></Packages>
-                <h1 className='h4 my-5'>Questions and Answers</h1>
+                <h1 className='h4 my-5 text-center text-primary fw-bolder'>Questions and Answers</h1>
                 <Questions></Questions>
             </div>
     );
