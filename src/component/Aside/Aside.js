@@ -28,7 +28,7 @@ const Aside = ({list}) => {
             <About></About>
             <AddBreak breakTime={breakTime} setBreakTime={setBreakTime}></AddBreak>
            <PackageDetails list={list} breakTime={breakTime}></PackageDetails>
-           <h3 className={showToast ? 'bg-primary p-3' : 'd-none'} style={{ zIndex: '90', position: 'fixed', top: '60% ', right: '40px', }}>Congratulations, You have done the workout!</h3>
+           <h3 className={showToast ? 'bg-warning p-3' : 'd-none'} style={{ zIndex: '90', position: 'fixed', top: '60% ', right: '40px', }}>Congratulations, You have done the workout!</h3>
 
 <button className="btn btn-primary w-100 py-2 mx-1 my-5" id="liveToastBtn" onClick={() => setShowToast(true)}>Activity Completed</button>
 
