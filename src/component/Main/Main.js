@@ -12,7 +12,7 @@ const Main = ({addToList}) => {
                     <h3 className='ms-4 fw-bolder text-primary brand'>Fitness Club <span>GYM</span></h3>
                     
                 </nav>
-                <h2 className='h4 my-4'>Select Today's Exercise</h2>
+                <h2 className='h4 my-4 text-primary text-center'>Select Today's Exercise</h2>
                 
                 <Packages addToList={addToList}></Packages>
                 <h1 className='h4 my-5 text-center text-primary fw-bolder'>Questions and Answers</h1>
