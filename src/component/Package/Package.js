@@ -9,8 +9,8 @@ const Package = ({pack,addToList}) => {
             <div className="col">
                 <div className="card">
                     <img src={picture} className="card-img-top" alt="..." />
-                    <div className="card-body">
-                        <h5 className="card-title">{name}</h5>
+                    <div className="card-body text-center">
+                        <h5 className="card-title text-primary ">{name}</h5>
                         <p className="card-text">{about}</p>
                         <h6>Age: {age}</h6>
                         <h6>Time Required: {time}</h6>
