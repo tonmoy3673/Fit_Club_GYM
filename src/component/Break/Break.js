@@ -5,7 +5,7 @@ const Break = ({ time, breakTime, setBreakTime }) => {
         localStorage.setItem('breakTime', t);
     }
     return (
-        <button className={time === breakTime ? 'rounded-pill bg-primary text-white p-2 mx-1' : 'rounded-pill bg-white p-2 mx-1'} onClick={() => { setBreakTime(time); setToLS(time) }}>{time}s</button>
+        <button className={time === breakTime ? 'rounded-pill bg-danger text-white p-2 mx-1' : 'rounded-pill bg-white p-2 mx-1'} onClick={() => { setBreakTime(time); setToLS(time) }}>{time}s</button>
     );
 };
 
